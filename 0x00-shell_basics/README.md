@@ -29,4 +29,4 @@
 - rm -rf /tmp/my_first_directory
 
 ### 10-back
-- cd ..
+- cd /var
