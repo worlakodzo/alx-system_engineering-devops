@@ -15,3 +15,6 @@
 
 ### 5-listfilesdigitonly
 - ls -na => list only numeric value in long format
+
+### 6-firstdirectory
+- mkdir /tmp/my_first_directory => create my_first_directory in /tmp/ folder
