@@ -11,5 +11,5 @@
 - chown betty hello   => change owner of hello file to betty
 
 ### 4-empty
-- mkdir hello    => create hello file
+- touch hello    => create hello file
 
