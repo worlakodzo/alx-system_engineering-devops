@@ -3,3 +3,6 @@
 
 ### 1-who_am_i
 - whoami  => display current user
+
+### 2-groups
+- groups
