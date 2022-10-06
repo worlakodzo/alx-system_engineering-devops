@@ -20,4 +20,7 @@
 - mkdir /tmp/my_first_directory => create my_first_directory in /tmp/ folder
 
 ### 7-movethatfile
-- mv /tmp/betty /tmp/my_first_directory/ =>  mv betty from /tmp to /tmp/my_first_directory 
+- mv /tmp/betty /tmp/my_first_directory/ =>  mv betty from /tmp to /tmp/my_first_directory
+
+### 8-firstdelete 
+- rm /tmp/my_first_directory/betty  => delete betty
