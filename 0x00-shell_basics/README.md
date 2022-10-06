@@ -9,3 +9,9 @@
 
 ### 3-listfiles
 - ls -l => display current director in long format
+
+### 4-listmorefiles
+- ls -la => list more file in the current directory
+
+### 5-listfilesdigitonly
+- ls -na => list only numeric value in long format
