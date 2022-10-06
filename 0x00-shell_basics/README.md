@@ -30,3 +30,6 @@
 
 ### 10-back
 - cd /var
+
+### 11-lists
+ls -a ./ ../ /boot
