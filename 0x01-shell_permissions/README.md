@@ -6,3 +6,6 @@
 
 ### 2-groups
 - groups
+
+### 3-new_owner
+- chown betty hello   => change owner of hello file to betty
