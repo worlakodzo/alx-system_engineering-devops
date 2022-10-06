@@ -24,3 +24,8 @@
 
 ### 8-firstdelete 
 - rm /tmp/my_first_directory/betty  => delete betty
+
+### 9-firstdirdeletion
+- rm -rf /tmp/my_first_directory
+
+
