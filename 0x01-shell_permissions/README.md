@@ -21,5 +21,5 @@
 - chmod 554 hello  => set owner and group to read, execute and other read
 
 ### 7-everybody
-- chmod 555 => set all to have execution access
+- chmod 751  => set all to have execution access
 
