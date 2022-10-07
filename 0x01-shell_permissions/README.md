@@ -26,3 +26,6 @@
 ### 8-James_Bond
 - chmod 007   => set other to all permission
 
+### 9-John_Doe
+- chmod 753 => set all permission for owner, read-execute for group and write-execute for others
+
