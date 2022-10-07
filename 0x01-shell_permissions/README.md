@@ -32,4 +32,7 @@
 ### 10-mirror_permissions
 - chmod --reference=hello olleh  => copy the permission set for hello to olleh
 
+### 11-directories_permissions
+- chmod 111 .  => add execution access to owner, group and others of the file
+
 
