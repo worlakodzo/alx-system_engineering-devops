@@ -13,3 +13,9 @@
 ### 4-empty
 - touch hello    => create hello file
 
+
+### 5-execute
+- chmod u+x   =>  change execute permission for owner
+
+### 6-multiple_permissions
+- chmod 554 hello  => set owner and group to read, execute and other read
