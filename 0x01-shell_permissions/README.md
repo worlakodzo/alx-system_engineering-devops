@@ -23,3 +23,6 @@
 ### 7-everybody
 - chmod 751  => set all to have execution access
 
+### 8-James_Bond
+- chmod 007   => set other to all permission
+
