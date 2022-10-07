@@ -29,3 +29,7 @@
 ### 9-John_Doe
 - chmod 753 => set all permission for owner, read-execute for group and write-execute for others
 
+### 10-mirror_permissions
+- chmod --reference=hello olleh  => copy the permission set for hello to olleh
+
+
