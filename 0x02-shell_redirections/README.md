@@ -13,4 +13,7 @@
 ### 4-lastlines
 - tail -n 10 /etc/passwd
 
+### 5-firstlines
+- head -n 10 /etc/passwd
+
 
