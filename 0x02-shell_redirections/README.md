@@ -7,3 +7,6 @@
 ### 2-hellofile
 - cat /etc/passwd
 
+### 3-twofiles
+- cat /etc/passwd /etc/hosts
+
