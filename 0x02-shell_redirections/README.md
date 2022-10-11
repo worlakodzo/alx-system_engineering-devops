@@ -10,3 +10,7 @@
 ### 3-twofiles
 - cat /etc/passwd /etc/hosts
 
+### 4-lastlines
+- tail -n 10 /etc/passwd
+
+
