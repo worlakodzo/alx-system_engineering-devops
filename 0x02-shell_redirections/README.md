@@ -21,3 +21,6 @@
 
 ### 7-file
 - echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+
+### 8-cwd_state
+ls -la > ls_cwd_content
