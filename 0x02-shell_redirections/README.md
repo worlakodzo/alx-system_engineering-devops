@@ -16,4 +16,5 @@
 ### 5-firstlines
 - head -n 10 /etc/passwd
 
-
+### 6-third_line
+- head n 3 | tail -n 1
