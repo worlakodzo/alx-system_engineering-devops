@@ -31,3 +31,6 @@ ls -la > ls_cwd_content
 ### 10-no_more_js
 - find . -type f -name "*.js" -exec rm {} \;
 
+### 11-directories
+- find . -type d | less | wc -l
+
