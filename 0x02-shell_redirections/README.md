@@ -34,3 +34,5 @@ ls -la > ls_cwd_content
 ### 11-directories
 - find . -type d | less | wc -l
 
+### 12-newest_files
+- ls -lt | less | head

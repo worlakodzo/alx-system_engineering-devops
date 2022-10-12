@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt | less | head -n 10
