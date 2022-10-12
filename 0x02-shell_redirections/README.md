@@ -28,3 +28,6 @@ ls -la > ls_cwd_content
 ### 9-duplicate_last_line
 - tail -n 1 >> iacta
 
+### 10-no_more_js
+- find . -type f -name "*.js" -exec rm {} \;
+
