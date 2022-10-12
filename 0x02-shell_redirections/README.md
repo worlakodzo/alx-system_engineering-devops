@@ -26,5 +26,5 @@
 ls -la > ls_cwd_content
 
 ### 9-duplicate_last_line
-- tail -n 1 | echo >> iacta
+- tail -n 1 >> iacta
 
