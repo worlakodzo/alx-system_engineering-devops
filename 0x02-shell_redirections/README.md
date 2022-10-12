@@ -18,3 +18,6 @@
 
 ### 6-third_line
 - head n 3 | tail -n 1
+
+### 7-file
+- echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
