@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# connect to 164538-web-01 server using private key
+
+
+# Generate the RSA key pair
+ssh-keygen -t rsa -b 4096 -f school -N betty
