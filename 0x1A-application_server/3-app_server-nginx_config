@@ -77,15 +77,6 @@ http {
             proxy_redirect off;
         }
 
-
-    }
-
-    server {
-        listen 5001;
-        server_name localhost 127.0.0.1 54.209.217.152
-        charset utf-8;
-        client_max_body_size 100m;
-
         location /airbnb-dynamic/number_odd_or_even/ {
             proxy_pass http://127.0.0.1:5001/;
             proxy_set_header Host $host;
@@ -95,8 +86,8 @@ http {
             proxy_redirect off;
         }
 
-
     }
+
 
 
 }
